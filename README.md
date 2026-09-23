@@ -18,7 +18,9 @@ Preencha os arquivos na ordem indicada. Não apague os títulos nem as perguntas
 - Curso e disciplina: `[Ciência da Computação - Design Profissional]`
 - Professor ou orientador: `[Isabella Luiza dos Santos Souza]`
 - Grupo: `[preencher]`
-- Integrantes: `[Bruno Gallego Costa, Glebson Delphino Gregorio do Nascimento Junior, João Vitor Andrade Pereira]`
+- Integrantes: `[Bruno Gallego Costa,  
+  Glebson Delphino Gregorio do Nascimento Junior, 
+  João Vitor Andrade Pereira]`
 - Data de início: `[22/09/2026]`
 
 
