@@ -15,7 +15,7 @@ Compreender os problemas enfrentados e definir meios para a solução dos mesmos
 ## Objetivos específicos
 
 1. `[Mapear problemas de usabilidade]`
-2. `[Criar soluções para os problemas de usabilidade]`
+2. `[Sintetizar soluções para os problemas de usabilidade]`
 3. `[Encontrar um meio para as soluções alcançarem o público alvo]`
 
 ## Quadro de alinhamento
@@ -24,7 +24,7 @@ Compreender os problemas enfrentados e definir meios para a solução dos mesmos
 |---|---|
 | Problema | `[Usabilidade de aplicativos por idosos]` |
 | Objetivo geral | `[Tornar a usabilidade algo fácil para este grupo de pessoas]` |
-| Resultado esperado | `[Soluções que ajudem a melhorar a jornada dos usuários]` |
+| Resultado esperado | `[Expor soluções já existentes que possam ajudar a melhorar a jornada dos usuários]` |
 
 ## Produto da etapa
 
