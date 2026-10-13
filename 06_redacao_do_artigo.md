@@ -14,11 +14,11 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Introdução
 
-`\\\[Na era digital, onde a digitalização de serviços é feita de forma rápida, há um problema para as pessoas da terceira idade que encontram dificuldade de acompanhar este processo acelerado que é acentuado pela falta de suporte humano, os obrigado a depender de terceiros, comprometendo sua autonomia. É preciso encontrar onde exatamente se encontra o problema nesta transição, assim poderemos decidir o melhor caminho para que esta faixa etária preserve sua autonomia.]`
+`\\\[Na era digital, onde a digitalização de serviços é feita de forma rápida, há um problema para as pessoas da terceira idade que encontram dificuldade em acompanhar este processo acelerado que é acentuado pela falta de suporte humano, os obrigado a depender de terceiros, comprometendo sua autonomia. É preciso encontrar onde exatamente se encontra o problema nesta transição, assim poderemos decidir o melhor caminho para que esta faixa etária preserve sua autonomia.]`
 
 ## Metodologia
 
-`\\\[A revisão bibliográfica foi feita com base em 3 artigos, que foram encontrados a partir de termos como "acessibilidade para idosos em dispositivos móveis", "idosos com dificuldade em aplicativos do governo" e outros parecidos. Não foram usados artigos que foram publicados há mais de 5 anos a partir da elaboração deste resumo. Após a leitura do resumo do artigo, se o mesmo não se enquadrasse no que está sendo procurado, era então desscartado.]`
+`\\\[A revisão bibliográfica foi feita com base em 3 artigos, que foram encontrados a partir de termos como "acessibilidade para idosos em dispositivos móveis", "idosos com dificuldade em aplicativos do governo" e outros parecidos. Não foram usados artigos que foram publicados há mais de 5 anos a partir da elaboração deste resumo. Após a leitura do resumo do artigo, se o mesmo não se enquadrasse no que está sendo procurado, era então descartado.]`
 
 ## Revisão da literatura
 
@@ -36,12 +36,10 @@ Escreva a primeira versão completa do artigo seguindo a estrutura abaixo. 500 a
 
 ## Considerações finais
 
-`\\\[Responda ao problema, interprete os achados, destaque avanços e limitações e indique implicações futuras específicas.]`
-`\\\[Este estudo foi feito com o objetivo de compreender o problema enfrentado por idodos no acesso a serviços públicos através de aplicativos móveis. A partir deste resumo, foi constatado que o problema é causado por dois fatores: a falta de adaptação dos dispositivos às diretrizes de acessibilidade e a omissão do Estado em construir soluções digitais que sigam as leis já aprovadas pelo mesmo. Conclui-se que não basta apenas o esforço do usuário em aprender a utilizar estes serviços, é necessário uma maior responsabilidade entre o Estado e os desenvolvedores para que os serviços prestados ao cidadão não lhe tire sua autonomia. Como uma lacuna, aponta-se a limitação teórica desta pesquisa, é ideal que sejam feitos testes práticos com o público alvo desta pesquisa.]`
+`\\\[Este estudo foi feito com o objetivo de compreender o problema enfrentado por idosos no acesso a serviços públicos através de aplicativos móveis. A partir deste resumo, foi constatado que o problema é causado por dois fatores: a falta de adaptação dos dispositivos às diretrizes de acessibilidade e a omissão do Estado em construir soluções digitais que sigam as leis já aprovadas pelo mesmo. Conclui-se que não basta apenas o esforço do usuário em aprender a utilizar estes serviços, é necessária uma maior responsabilidade entre o Estado e os desenvolvedores para que os serviços prestados ao cidadão não lhe tire sua autonomia. Como uma lacuna, aponta-se a limitação teórica desta pesquisa, é ideal que sejam feitos testes práticos com o público-alvo desta pesquisa.]`
 
 ## Resumo
 
-`\\\[Escreva por último: contexto breve, objetivo, método, principais achados e conclusão.]`
 `\\\[Com a rápida digitalização dos serviços públicos, a população idosa tem enfrentado barreiras no acesso a serviços básicos, que desrespeitam a sua autonomia. Este resumo teve como objetivo identificar onde exatamente se encontra o problema de usabilidade enfrentado por este público em específico. Por meio de uma revisão bibliográfica, constatou-se que a falha está na falta de acessibilidade nos aplicativos móveis criados pelo Estado e na omissão do mesmo em seguir as diretrizes asseguradas por lei que comprovadamente ajudariam este público. Conclui-se que para respeitar a autonomia das pessoas da terceira idade, é necessário que os órgãos governamentais assumam a responsabilidade de seguir as diretrizes de acessibilidade asseguradas por lei. ]`
 
 ## Referências
